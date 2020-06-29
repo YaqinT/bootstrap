@@ -1,0 +1,12 @@
+.bottom-menu ul{
+  display: flex;
+  width: 30rem;
+  justify-content: space-between;
+  margin: 3rem 0 3rem 0;
+  color:#666;
+  cursor: pointer;
+}
+
+li{
+  list-style: none;
+}

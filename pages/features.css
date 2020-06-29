@@ -1,0 +1,17 @@
+header{
+  background: #2e76a4!important;
+}
+nav{
+  background: #2e76a4!important;
+}
+.hamburger{
+  color:white!important;
+}
+.cross{
+  color:white!important;
+}
+body{
+  width: 100vw;
+  height: 100vh;
+  background-color: #2e76a4!important;
+}
